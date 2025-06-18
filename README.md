@@ -49,3 +49,6 @@ A data-driven project to forecast Apple’s stock price for Q2 2025 (March 28), 
 | 🔮 Predicted Price | 📊 Actual Price | 🎯 Accuracy |
 |--------------------|------------------|-------------|
 | $220.50            | $217.90          | 98.81%      |
+
+⚠️ Note: The Excel files included in this project are shared for demonstration purposes only. 
+They do not contain the full methodology or proprietary calculations.
