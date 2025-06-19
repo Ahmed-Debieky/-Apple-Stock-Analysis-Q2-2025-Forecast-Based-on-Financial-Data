@@ -12,14 +12,15 @@ A data-driven project to forecast Apple’s stock price for Q2 2025 (March 28), 
 
 
 🔄 workflow included:
-1. Conducting research to study and understand the financial and market factors affecting Apple’s stock price
-2. Collecting relevant data, including revenue, net income, EPS, stock price, and Nasdaq 100
-3. Analyzing the data to uncover trends, patterns, and correlations between financial indicators and stock performance
-4. Forecasting key financial variables using various time series models
-5. Predicting Apple’s stock price based on the forecasted variables using regression and machine learning techniques
-6. Interpreting the results and evaluating prediction accuracy
-7. Visualizing insights through a dynamic dashboard
-
+- Conducting research to study and understand the financial, market, and global economic factors affecting Apple’s stock price  
+- Analyzing the historical impact of major economic events and crises on Apple’s performance and the Nasdaq 100 index  
+- Collecting relevant data, including revenue, net income, EPS, stock price, and Nasdaq 100  
+- Analyzing the data to uncover trends, patterns, and correlations between financial indicators and stock performance  
+- Forecasting key financial variables using various time series models  
+- Predicting Apple’s stock price based on the forecasted variables using regression and machine learning techniques  
+- Interpreting the results and evaluating prediction accuracy  
+- Visualizing insights through a dynamic dashboard
+  
  
 🔍 Models Used
 📈 Time Series Forecasting Models**
